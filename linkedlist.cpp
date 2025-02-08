@@ -867,3 +867,8 @@ int main()
     bool ans=ispallin(start, end);
     cout<<endl <<ans<<endl;
 }
+
+
+
+
+
